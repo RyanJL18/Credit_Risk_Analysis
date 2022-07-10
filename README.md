@@ -12,7 +12,9 @@ The following includes all the results for each of the 6 machine leaning modules
 ![Naive Random Oversampling.PNG](https://github.com/RyanJL18/Credit_Risk_Analysis/blob/main/Resources/Naive_Oversampling.png)
 
 Balanced Accuracy: 0.6293939430565123
+
 Recall: High/Low: .57/.68
+
 Precision: Low for High-Risk Loans, High for Low Risk
 
 ### **SMOTE Oversampling**
@@ -20,7 +22,9 @@ Precision: Low for High-Risk Loans, High for Low Risk
 ![SMOTEOversampling.PNG](https://github.com/RyanJL18/Credit_Risk_Analysis/blob/main/Resources/SMOTE_Oversampling.png)
 
 Balanced Accuracy: 0.6277008271188627
+
 Recall: High/Low: .62/.63
+
 Precision: Low for High Risk Loans, High for Low Risk
 
 ### **UnderSampling**
@@ -28,7 +32,9 @@ Precision: Low for High Risk Loans, High for Low Risk
 ![Undersampling.PNG](https://github.com/RyanJL18/Credit_Risk_Analysis/blob/main/Resources/Undersampling.png)
 
 Balanced Accuracy: 0.6277008271188627
+
 Recall: High/Low: .60/.43
+
 Precision: Low for High Risk, High for Low
 
 ### **Combination Under-Over Sampling**
@@ -36,7 +42,9 @@ Precision: Low for High Risk, High for Low
 ![ComboOVUnsampling.PNG](https://github.com/RyanJL18/Credit_Risk_Analysis/blob/main/Resources/ComboOverUnderSampling.png)
 
 Balanced Accuracy: 0.5138873780775228
+
 Recall: High/Low: .70/.61
+
 Precision: Low for High Risk Loans, High for Low Risk
 
 ### **Balanced Random Forest Classifier**
@@ -44,7 +52,9 @@ Precision: Low for High Risk Loans, High for Low Risk
 ![BalancedForestClass.PNG](https://github.com/RyanJL18/Credit_Risk_Analysis/blob/main/Resources/BalancedRandomForest.png)
 
 Balanced Accuracy: 0.7877672625306695
+
 Recall: High/Low: .67/.91
+
 Precision: Low for High Risk Loans, High for Low Risk
 
 ### **Easy Ensemble Classifier**
